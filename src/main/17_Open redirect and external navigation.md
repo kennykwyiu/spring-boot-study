@@ -1,4 +1,4 @@
-# Open redirect and external navigation
+# 17_Open redirect and external navigation
 
 > Problem vs Solved code patterns with rollout checks and attacker playbooks.
 > 
